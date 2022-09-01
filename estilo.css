@@ -1,0 +1,15 @@
+header{
+    text-align: center;
+    color: brown;
+    font-size: large;
+}
+.imagem{
+    text-align: center;
+}
+.texto{
+    text-align: justify;
+}
+.copyrigth{ 
+    text-align: center;
+    color: blue;
+}
